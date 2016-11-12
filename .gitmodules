@@ -1,0 +1,3 @@
+[submodule "skb2"]
+	path = skb2
+	url = ../../kriasoft/babel-starter-kit.git
